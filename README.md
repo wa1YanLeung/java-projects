@@ -17,10 +17,10 @@ Implement a spell checker using HashSet and TreeSet data structures.
 6. **Stack indentation checker**\
 Implement an indentation checker using Stack.
 
-7. **Java Stream API exercises**\
+7. **Java Stream API exercises**
 
 8. **MySum**\
-Multithreading exercise
+Multithreading exercises
 
 9. **Game of pig**\
 Write a GUI interface to play the Game of pig. It is a two-player dice game in which the first player reaches 100 or more points wins.
