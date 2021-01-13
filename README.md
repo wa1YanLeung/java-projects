@@ -1,4 +1,4 @@
-# java-projects
+# Java Projects
 1. **Person IO**\
 A program that can write/ read person objects to/ from a binary file.
 
